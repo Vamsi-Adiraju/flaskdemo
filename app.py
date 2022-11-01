@@ -16,8 +16,7 @@ JOBS=[{
 {
   'id':1,
   'title':'Business Analyst',
-  'location':'Pune, India',
-  'salary' :'Rs. 8,00,000'
+  'location':'Pune, India'
 },
 {
   'id':1,
